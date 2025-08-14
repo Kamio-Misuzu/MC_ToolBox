@@ -3,7 +3,7 @@
 <div align="center">
   <h1>我的世界工具盒</h1>
   <div>
-    <a >English</a> | 
+    <a src="https://github.com/Kamio-Misuzu/MC_ToolBox/blob/master/README_EN.md">English</a> | 
     <a >简体中文</a> 
   </div>
   <p>
