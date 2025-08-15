@@ -17,6 +17,8 @@
 ### 说明
 - 连点器
 - PVP连点器(模拟DC点击)
+<img width="1186" height="473" alt="image" src="https://github.com/user-attachments/assets/65a9b8d8-0f19-4e31-8fa4-766f20191466" />
+
 - 自动钓鱼
   - 下载FishImg图片文件, 不同版本对应的声音提示不同, 选择和自己版本一样的声音提示即可, 或者自行截图
 - 自动发送消息
